@@ -1,1 +1,1 @@
-# Turtle-Target-Practice
+Using Turtle in Python, 30 shots with random angles and distances are made on a screen with a circle. Any of the shots landing in the circle are colored as green dots, and shots outside the circle are colored blue. 
